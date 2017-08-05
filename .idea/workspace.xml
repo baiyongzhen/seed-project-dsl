@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ab4c06-efe8-4f3e-b4d4-abb215ff8fdb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/configs/banana-stand.yml" afterPath="$PROJECT_DIR$/configs/banana-stand.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.groovy" afterPath="$PROJECT_DIR$/main.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/PullRequestTemplate.groovy" afterPath="$PROJECT_DIR$/templates/PullRequestTemplate.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/PiplineRequestTemplate.groovy" afterPath="$PROJECT_DIR$/templates/PiplineRequestTemplate.groovy" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,21 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PullRequestTemplate.groovy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PullRequestTemplate.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/PullRequestTemplate.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="228">
+              <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PiplineRequestTemplate.groovy" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PiplineRequestTemplate.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/PiplineRequestTemplate.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="152">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -100,10 +98,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="53" />
-    <option name="y" value="28" />
-    <option name="width" value="1318" />
-    <option name="height" value="680" />
+    <option name="x" value="92" />
+    <option name="y" value="13" />
+    <option name="width" value="1079" />
+    <option name="height" value="668" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -487,7 +485,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="28" width="1318" height="680" extended-state="0" />
+    <frame x="92" y="13" width="1079" height="668" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -505,7 +503,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24961598" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30573848" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -574,18 +572,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/PiplineRequestTemplate.groovy">
+    <entry file="file://$PROJECT_DIR$/templates/PullRequestTemplate.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="228">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/PullRequestTemplate.groovy">
+    <entry file="file://$PROJECT_DIR$/templates/PiplineRequestTemplate.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="152">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
