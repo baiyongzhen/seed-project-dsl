@@ -2,7 +2,7 @@ package templates
 
 class PiplineRequestTemplate {
     static void create(job, config) {
-        pipeline {
+        pipeline.with {
             agent any
             parameters {
                 string(name: 'myInput', description: 'Some pipeline parameters')
