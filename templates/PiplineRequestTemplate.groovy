@@ -8,10 +8,10 @@ class PiplineRequestTemplate {
                 cpsScm {
                     scm {
                         git('https://github.com/jenkinsci/job-dsl-plugin.git', '**/master')
-                        //branch('**/master')
                         scriptPath('jenkinsfile')
                     }
                 }
             }
         }
+    }
 }

@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ab4c06-efe8-4f3e-b4d4-abb215ff8fdb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.groovy" afterPath="$PROJECT_DIR$/main.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/PiplineRequestTemplate.groovy" afterPath="$PROJECT_DIR$/templates/PiplineRequestTemplate.groovy" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,21 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PullRequestTemplate.groovy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PullRequestTemplate.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/PullRequestTemplate.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="95">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PiplineRequestTemplate.groovy" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PiplineRequestTemplate.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/PiplineRequestTemplate.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="285">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -93,8 +91,8 @@
       <list>
         <option value="$PROJECT_DIR$/configs/banana-stand.yml" />
         <option value="$PROJECT_DIR$/templates/PullRequestTemplate.groovy" />
-        <option value="$PROJECT_DIR$/templates/PiplineRequestTemplate.groovy" />
         <option value="$PROJECT_DIR$/main.groovy" />
+        <option value="$PROJECT_DIR$/templates/PiplineRequestTemplate.groovy" />
       </list>
     </option>
   </component>
@@ -630,18 +628,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/PiplineRequestTemplate.groovy">
+    <entry file="file://$PROJECT_DIR$/templates/PullRequestTemplate.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="95">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/PullRequestTemplate.groovy">
+    <entry file="file://$PROJECT_DIR$/templates/PiplineRequestTemplate.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="285">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding />
         </state>
       </provider>
