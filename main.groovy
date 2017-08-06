@@ -21,6 +21,6 @@ void createJobs() {
         def project = projectConfig.project.replaceAll(' ', '-')
 
         //PullRequestTemplate.create(job("${project}-Pull-Request"), projectConfig)
-        PiplineRequestTemplate.create(job("${project}-Pull-Request"), projectConfig)
+        PiplineRequestTemplate.create(pipelineJob("${project}-Pull-Request"), projectConfig)
     }
 }
