@@ -8,7 +8,7 @@ class PiplineRequestTemplate {
                 cpsScm {
                     scm {
                         git{
-                            credentials('1')
+                            //credentials('1')
                             branch('**/master')
                             remote {
                                 url('https://github.com/jenkinsci/job-dsl-plugin.git')
