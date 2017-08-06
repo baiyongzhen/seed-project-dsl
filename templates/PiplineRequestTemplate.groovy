@@ -7,7 +7,12 @@ class PiplineRequestTemplate {
             definition {
                 cpsScm {
                     scm {
-                        git('https://github.com/jenkinsci/job-dsl-plugin.git', '**/master')
+                        git{
+                            branch('**/master')
+                            remote {
+                                url('https://github.com/jenkinsci/job-dsl-plugin.git')
+                            }
+                        }
                         scriptPath('jenkinsfile')
                     }
                 }
