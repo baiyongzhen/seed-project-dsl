@@ -11,7 +11,7 @@ class PiplineRequestTemplate {
                             //credentials('1')
                             branch('**/master')
                             remote {
-                                url('https://github.com/jenkinsci/job-dsl-plugin.git')
+                                url('https://github.com/baiyongzhen/SpringBootTest.git')
                             }
                         }
                         scriptPath('jenkinsfile')
