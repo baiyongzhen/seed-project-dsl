@@ -8,7 +8,7 @@ class PiplineRequestTemplate {
                 cpsScm {
                     scm {
                         git{
-                            //credentials('1')
+                            credentials('gitub-ci-test')
                             branch('**/master')
                             remote {
                                 url('https://github.com/baiyongzhen/SpringBootTest.git')
